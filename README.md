@@ -1,2 +1,2 @@
 # This is the readme file
-Hello
+Hello cloud users
